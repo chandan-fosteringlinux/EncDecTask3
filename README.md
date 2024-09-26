@@ -4,9 +4,8 @@
 
 * **Operating System**: Ubuntu 20.04 LTS or later.  
 * **Sudo Privileges**: Ensure you have the necessary permissions to install and configure packages.  
-* **Required Packages**: OpenSSL must be installed; check with `openssl version`.  
-* **Installed Apache Server**: Ensure Apache is running before proceeding with the setup.
-
+* **Required Packages**: OpenSSL must be installed; check with `openssl version`.
+  
 ## **1\. Install and Start Apache Server**
 
 Ensure that Apache is installed and running on your system. Execute the following commands:
