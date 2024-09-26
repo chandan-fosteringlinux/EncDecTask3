@@ -129,7 +129,7 @@ Restart the Apache server to apply the changes:
 
 ## **11\. Access the Script in the Browser**
 
-Navigate to the script in your web browser by entering the below url address followed by the script path. For example:
+Navigate to the script in your MozilaFireFox browser by entering the below url address followed by the script path. For example:
 
 `localhost/cgi-bin/decrypt.sh`
 
