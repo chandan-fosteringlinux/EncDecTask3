@@ -8,7 +8,7 @@
   
 ## **1\. Install and Start Apache Server**
 
-Ensure that Apache is installed and running on your system. Execute the following commands:
+Ensure that Apache is installed and running on your system. If it is not installed, then install it by executing the following commands:
 
 `sudo apt update`  
 `sudo apt install apache2`  
